@@ -1,0 +1,15 @@
+Technology Stack
+  Nodejs
+  Database - Mongodb
+Prerequsites
+  Node.js & Mongodb
+
+Run Program -
+
+1. Start Mongodb Server
+  > mongod
+2. locate to project directory
+    > npm install
+    //to install all dependencies
+3. open index.js
+ now follow the steps to run the project
